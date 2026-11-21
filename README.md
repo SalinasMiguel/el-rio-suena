@@ -1,6 +1,6 @@
 <p align="center"><img src="capturas/banner.svg" alt="El Río Suena" width="100%"></p>
 
-# El Río Suena
+# El Río Suena #
 
 > **Cuando el río suena, piedras trae.**
 >
